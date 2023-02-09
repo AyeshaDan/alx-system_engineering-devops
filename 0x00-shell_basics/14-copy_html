@@ -1,2 +1,6 @@
 #!/bin/bash
-rsync -av --update *.html ../
+cp -u *.html ..
+
+
+
+
