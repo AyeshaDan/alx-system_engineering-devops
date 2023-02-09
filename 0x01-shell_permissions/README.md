@@ -1,1 +1,1 @@
-1. use su command to switch users
+2. use whoami to display current username
